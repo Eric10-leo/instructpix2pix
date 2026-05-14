@@ -79,11 +79,6 @@ Images will be saved in `sample_figures/` with side-by-side comparisons.
 
 - Tian Zeyu: [183441801@qq.com](mailto:183441801@qq.com)
 
-For questions regarding data usage or reproducibility, please also contact:
-
-- Ziyuan Li: [ziyuanli1@link.cuhk.edu.cn](mailto:ziyuanli1@link.cuhk.edu.cn)  
-- Jinhao Jing: [jinhaojing@link.cuhk.edu.cn](mailto:jinhaojing@link.cuhk.edu.cn)
-
 
 ## Citation
 
